@@ -1,13 +1,17 @@
 # FDC_3_DAY_CHALLANGE 
+# fbdevcchd
+Facebook developer circle Chandigarh Challenges you to a 3-day coding challenge a platform to showcase your skills and contribute to society. 
 
-This is a 3 day challenge in which all have to code something a mini project 
+In this challenge, you all would have to make a mini project in 3 days and share your progress by making a post on your own social media by tagging us #fbdevcchd and #facebook and also upload your progress day wise to this Git Hub link below
 
-# For 3 days and share there progress for day 1 , day 2 and day 3.  
+#                                         " May the force be with you "
+# Rules and Regulation  
 
-In the end top 3 will get some goodies form facebook developer circle Chandigarh.
+1) You need to upload your progess daily on this github Respo by making a seprate folder for yourself with your name_projecetname 
 
-# you have to make a folder of your own and upload files as day one progress and so on..
+2) Your projects shouldbe developed within these 3 days starting 11.3.2020 and ending 13.3.2020 
 
-# "May the force be with you "
+3) Your projects will be evaluated by industry experts and would be graded accordingly 
 
+# Happy Coding 
 
